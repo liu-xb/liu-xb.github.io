@@ -1086,24 +1086,26 @@ footer .copyright {
 
 .post {
   width: 100%;
-  max-width: 100%;
-  margin-bottom: 1.5rem;
+  max-width: 87%;
+  margin: auto;
+  margin-bottom: 1rem;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  /*-webkit-box-orient: horizontal;*/
+  /*-webkit-box-direction: normal;*/
+  /*-webkit-flex-direction: row;*/
+      /*-ms-flex-direction: row;*/
+          /*flex-direction: row;*/
   -webkit-box-align: stretch;
   -webkit-align-items: stretch;
-      -ms-flex-align: stretch;
-          align-items: stretch;
-  min-height: 11rem;
-  -webkit-border-radius: 10px;
-          border-radius: 10px;
+      /*-ms-flex-align: stretch;*/
+          /*align-items: stretch;*/
+  min-height: 8rem;
+  /*max-height: 11rem;*/
+  -webkit-border-radius: 0px;
+          border-radius: 0px;
   overflow: hidden;
   -webkit-transition: all .3s ease;
   -o-transition: all .3s ease;
@@ -1123,7 +1125,7 @@ footer .copyright {
 .post .post-thumbnail {
   width: 30%;
   max-width: 100%;
-  min-height: 11rem;
+  min-height: 8rem;
   -webkit-background-size: 100%;
           background-size: 100%;
           background-repeat: no-repeat;
@@ -1131,11 +1133,14 @@ footer .copyright {
 }
 
 .post .post-content {
-  padding: 1rem;
-  width: 70%;
+  margin: auto;
+
+  padding: 0px;
+  width: 65%;
 }
 
 .post-date {
+  /*margin-top: -15px;*/
   padding-top: -545px;
 }
 
@@ -1350,10 +1355,11 @@ a.newer-posts:hover {
     width: 100%;
   }
   .post .post-content {
-    width: 100%;
+    width: 90%;
   }
   .post .post-content .post-title {
     margin: 0 0 5px;
+    font-size: 23px;
   }
   .post .post-content .post-title a {
     font-size: 23px;
@@ -1457,3 +1463,29 @@ table{
     margin:0 auto;
 }
 </style>
+
+
+* { margin: 0px; padding: 0px; }
+#content-title {
+ width: 87%; 
+ margin: 0px auto; 
+ overflow: hidden; 
+ position: relative; }
+
+#content-title span { 
+  float: left; 
+  text-align: center; 
+  width: 33.3%; }
+        
+#content-title .border { 
+  border-bottom: 1px solid black; 
+  height: 38px; }
+
+#news-content {
+  width: 87%;
+ margin: 0px auto; 
+}
+#logo{
+  width: 87%;
+  margin: 0px auto;
+}
