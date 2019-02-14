@@ -1128,8 +1128,8 @@ footer .copyright {
   max-width: 100%;
  
   min-height: 8rem;
-  -webkit-background-size: auto 95%;
-          background-size: auto 95%;
+  -webkit-background-size: 100% auto;
+          background-size: 100% auto;
           background-position: center;
           background-repeat: no-repeat;
   /*background-position: 50% 50%;*/
