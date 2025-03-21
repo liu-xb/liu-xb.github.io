@@ -871,7 +871,7 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
+  max-width: 1550px;
   position: relative;
 }
 
@@ -919,7 +919,7 @@ table tfoot td {
   top: 0;
   left: 0;
   bottom: 0;
-  width: 285px;
+  width: 335px;
   height: 100%;
   padding: 20px 10px;
   background-color: #ffffff;
