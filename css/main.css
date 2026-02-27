@@ -1481,7 +1481,7 @@ a.newer-posts:hover {
   }
 }
 
-<style>table {
+/* <style>table {
   border: 1px solid;
   margin: 0 auto;
 }
@@ -1489,7 +1489,7 @@ a.newer-posts:hover {
 </style>* {
   margin: 0px;
   padding: 0px;
-}
+} */
 
 #content-title {
   width: 87%;
