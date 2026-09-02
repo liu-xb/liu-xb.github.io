@@ -1,0 +1,558 @@
+<div align="center">
+    <table align="center" width="100%" data-sort="sortDisabled" style="border-collapse: collapse;">
+        <tbody>
+            <tr class="firstRow">
+                <td rowspan="1" colspan="2" style="border-color: rgb(217, 150, 148); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                    <p style="background: rgb(130, 46, 105);text-indent:5px;border: 5px solid rgb(130, 46, 105);">
+                        <span style="color: rgb(255, 255, 255); font-family: 微软雅黑; font-size: 18px;"><strong>基本信息</strong></span>
+                    </p>
+                    <p>
+                        <img src="/_vsl/439424712186E7405DBB3DEC65C94EA8/C4C67FBB/A804" width="150px" height="150px" alt="A804" vsbhref="vurl" vurl="/_vsl/439424712186E7405DBB3DEC65C94EA8/C4C67FBB/A804" vheight=" 150px" vwidth=" 150px" style="float: right; width: 150px; height: 150px; margin: 0px 0px -150px 200px"/>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">姓名：   刘晓滨</span>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">性别：   男</span>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">所属部门： 自动化系</span>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">行政职务： 无</span>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">职称：   助理研究员</span>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">学历：   博士</span>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">所学专业： 计算机应用技术</span>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">办公电话： 无</span>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">电子邮件： liuxb@nankai.edu.cn</span>
+                    </p>
+                    <p style="text-indent: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">研究方向： 目标重识别、多模态内容理解</span>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="2" style="border-color: rgb(217, 150, 148); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                    <p style="background: rgb(130, 46, 105);text-indent:5px;border: 5px solid rgb(130, 46, 105);">
+                        <span style="color: rgb(255, 255, 255); font-size: 18px; font-family: 微软雅黑, SimSun;"><strong>个人简介</strong></span>
+                    </p>
+                    <p style="margin-left: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun; line-height:150%;text-align: justify;">2016年06月本科毕业于南开大学智能科学与技术专业并获得学士学位， 2022年01月毕业于北京大学计算机应用技术专业并获得博士学位。2022年02月作为“技术大咖”加入腾讯，担任高级研究员，从事多模态内容处理与理解相关研究和算法框架搭建工作。2024年08月离开腾讯，加入南开大学人工智能学院先进感知与控制实验室，从事具身智能、多模态内容理解等相关研究。至今在TIP、PR、NeurIPS、ECCV、IJCAI、ACM MM等国际重要期刊和会议发表论文20余篇，授权发明专利8项，主持国家自然科学基金青年基金1项、国家资助博士后研究人员计划1项、中国博士后科学基金面上项目1项、中国博士后科学基金会与天津市联合资助（特别资助）1项，参与多项国家重点研发计划、国家基金委面上项目等国家级项目，获得2024年度天津市技术发明二等奖、第六届交通运输工程全国优秀博士学位论文奖、ICIVC 2025优秀论文展示奖、第五届天津市“海河英才”<span style="color: rgb(51, 51, 51); font-family: 宋体, times; font-size: 18px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);">创新创业大赛博士后揭榜领题赛三等奖</span>。担任ICIVC 2025 Track Chair，并作为TIP、IJCV、CVPR、ICCV等多个国际权威期刊和顶级会议审稿人。</span>
+                    </p>
+                    <p style="margin-left: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;line-height:120%;"><span style="font-size: 18px; font-family: 宋体, SimSun;"><br/></span></span>
+                    </p>
+                    <p style="margin-left: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;line-height:120%;"><span style="font-size: 18px; font-family: 宋体, SimSun;">个人主页</span><span style="font-size: 18px;">：</span><a href="https://www.xbliu.cn/" target="_blank" style="font-family: &quot;times new roman&quot;; font-size: 18px; color: rgb(0, 176, 240); text-decoration: underline;"><span style="font-family: &quot;times new roman&quot;; font-size: 18px; color: rgb(0, 176, 240);">https://www.xbliu.cn/</span></a></span>
+                    </p><br/><br/> &nbsp; &nbsp;
+                    <table align="left" style="border-collapse: collapse;">
+                        <tbody>
+                            <tr class="firstRow">
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px; word-break: break-all;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: &quot;Times New Roman&quot;">2024.08--</span><span style="font-size: 18px; font-family: 宋体, SimSun;">至今</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">南开大学</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">人工智能学院</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px; word-break: break-all;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">助理研究员</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" colspan="1" rowspan="1" width="183" style="border-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; padding: 5px 10px; word-break: break-all;">
+                                    <p>
+                                        <img src="/_vsl/3CA46981BD814CE168BC1C2CBD3CA8CD/1E75AA5A/D389" width="30" height="30" alt="D389" vsbhref="vurl" vurl="/_vsl/3CA46981BD814CE168BC1C2CBD3CA8CD/1E75AA5A/D389" vheight=" 30px" vwidth=" 30px" style="width: 30px; height: 30px;"/>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: &quot;Times New Roman&quot;;">2</span><span style="font-family:&#39;times new roman&#39;;font-size:18px">022.02</span><span style="font-size: 18px; font-family: &quot;Times New Roman&quot;;">-</span><span style="font-family:&#39;times new roman&#39;;font-size:18px">-2024.08</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">腾讯科技（北京）有限公司</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">内容平台部</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px; word-break: break-all;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">高级研究员</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" colspan="1" rowspan="1" width="202" style="border-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; padding: 5px 10px;">
+                                    <p>
+                                        <img src="/_vsl/707DBA9359EE2C0F8FC1409318F3C95F/CBF0CB33/2C77" alt="2C77" vsbhref="vurl" vurl="/_vsl/707DBA9359EE2C0F8FC1409318F3C95F/CBF0CB33/2C77" vheight=" 18px" vwidth=" auto" style="height: 18px; width: auto;"/>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: &quot;Times New Roman&quot;;">2</span><span style="font-family:&#39;times new roman&#39;;font-size:18px">016.09-</span><span style="font-size: 18px; font-family: &quot;Times New Roman&quot;;">-</span><span style="font-family:&#39;times new roman&#39;;font-size:18px">2022.01</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">北京大学</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">计算机应用技术</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">理学博士</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" colspan="1" rowspan="1" width="221" style="border-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; padding: 5px 10px;">
+                                    <p>
+                                        <img src="/_vsl/5752F60375C8AE1BB9781157334D5DB0/779C562A/650D" width="30" alt="650D" vsbhref="vurl" vurl="/_vsl/5752F60375C8AE1BB9781157334D5DB0/779C562A/650D" vheight=" 30px" vwidth=" 30px" style="width: 30px; height: 30px;"/>
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px; word-break: break-all;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: &quot;Times New Roman&quot;;">2</span><span style="font-family:&#39;times new roman&#39;;font-size:18px">012.09</span><span style="font-size: 18px; font-family: &quot;Times New Roman&quot;;">-</span><span style="font-family:&#39;times new roman&#39;;font-size:18px">-2016.06</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">南开大学</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">智能科学与技术</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" style="border-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; padding: 5px 10px; word-break: break-all;">
+                                    <p>
+                                        <span style="font-size: 18px; font-family: 宋体, SimSun;">工学学士</span>
+                                    </p>
+                                </td>
+                                <td align="left" valign="middle" colspan="1" rowspan="1" width="240" style="border-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; padding: 5px 10px; word-break: break-all;">
+                                    <p>
+                                        <img src="/_vsl/3CA46981BD814CE168BC1C2CBD3CA8CD/1E75AA5A/D389" width="30" height="30" alt="D389" vsbhref="vurl" vurl="/_vsl/3CA46981BD814CE168BC1C2CBD3CA8CD/1E75AA5A/D389" vheight=" 30px" vwidth=" 30px" style="width: 30px; height: 30px;"/>
+                                    </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="2" style="border-color: rgb(217, 150, 148); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                    <p style="background: rgb(130, 46, 105);text-indent:5px;border: 5px solid rgb(130, 46, 105);">
+                        <span style="color: rgb(255, 255, 255); font-size: 18px; font-family: 微软雅黑, SimSun;"><strong>科研项目、成果、获奖、专利</strong></span>
+                    </p>
+                    <p>
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;"><strong><span style="font-family: 宋体, SimSun; font-size: 18px;margin-left: 10px;">主持项目：</span></strong></span>
+                    </p>
+                    <ol reversed="" class=" list-paddingleft-2" style="margin-left:29px;text-indent:0px;font-size: 18px;font-family: 宋体, times;">
+                        <li>
+                            <p>
+                                中国博士后科学基金会与天津市联合资助（特别资助），复杂场景下的无监督增量式行人重识别方法研究，2025.08-2027.07，18万元。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                中国博士后科学基金面上项目，基于持续学习的无监督行人重识别方法研究，2025.07-2027.06，8万元。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                国家自然科学基金青年项目，面向真实场景中增量数据的行人重识别方法研究，2025.01-2027.12，30万元。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                国家资助博士后研究人员计划（C档），复杂场景下的机器人增量式视觉语义感知方法研究，2024.09-2026.08，24万元。
+                            </p>
+                        </li>
+                    </ol>
+                    <p>
+                        <br/>
+                    </p>
+                    <p>
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;"><strong><span style="font-family: 宋体, SimSun; font-size: 18px;margin-left: 10px;">参与项目：</span></strong></span>
+                    </p>
+                    <ol reversed="" class=" list-paddingleft-2" style="margin-left:29px;text-indent:0px ;font-size: 18px;font-family: 宋体, times;">
+                        <li>
+                            <p>
+                                科技部国家重点研发计划课题，多模态传感器融合的感知定位导航，2025.01-2027.12, 190万元。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                科技部国家重点研发计划政府间合作重点专项，面向智慧城市的地空一体化视频内容分析与挖掘，2018.01.01-2020.12.31, 167万<span style="font-family: 宋体, times; font-size: 18px; text-wrap-mode: wrap;">元</span>。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                国家自然科学基金面上项目，基于紧凑图像特征与混合索引的海量图像检索技术研究，2016.01-2019.12，67万<span style="font-family: 宋体, times; font-size: 18px; text-wrap-mode: wrap;">元</span>。
+                            </p>
+                        </li>
+                    </ol>
+                    <p>
+                        <br/>
+                    </p>
+                    <p>
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;"><strong><span style="font-family: 宋体, SimSun; font-size: 18px;margin-left: 10px;">获奖：</span></strong></span>
+                    </p>
+                    <ol reversed="" class=" list-paddingleft-2" style="margin-left:29px;text-indent:0px;font-size: 18px;font-family: 宋体, times;">
+                        <li>
+                            <p>
+                                2026.07, 第三届（2026）中国高校计算机大赛-AIGC创新赛华北赛区三等奖（指导教师）。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                2025.07, ICIVC 2025优秀论文展示奖（Excellent Presentation Award）。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                2025.04, 2024年度天津市技术发明二等奖。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                2025.01, 第五届天津市“海河英才”创新创业大赛博士后揭榜领题赛三等奖。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                2024.12, 第六届交通运输工程全国优秀博士学位论文奖。
+                            </p>
+                        </li>
+                    </ol>
+                    <p>
+                        <br/>
+                    </p>
+                    <p>
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;"><strong><span style="font-family: 宋体, SimSun; font-size: 18px;margin-left: 10px;">授权专利：</span></strong></span>
+                    </p>
+                    <ol reversed="" class=" list-paddingleft-2" style="margin-left:28px;text-indent:0px;font-size: 18px;font-family: 宋体, times;">
+                        <li>
+                            <p>
+                                苑晶, 何嘉笙, <strong>刘晓滨</strong>, 陈飞, 张雪波, 李佳宁. 基于视觉嵌入式的场景重建与相机位姿跟踪方法及系统.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                苑晶, 魏宇航, 祝文斌, <strong>刘晓滨</strong>, 赵东兵, 陈飞, 李佳烨. 基于高阶矩约束与投影反馈的器皿检测与建模增强方法.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                苑晶, 郭鑫宇, <strong>刘晓滨</strong>, 孙星宇, 陈飞, 张雪波. 模型训练方法及装置. ZL202511753264.9
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <strong>刘晓滨</strong>, 张明昊, 辛永佳, 赵博, 刘晓龙. 信息处理方法、装置、电子设备和存储介质. ZL202411126765.X
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <strong>刘晓滨</strong>, 赵博. 数据处理方法、装置、设备及可读存储介质. ZL202310893001.2
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-size: 18px; font-family: &quot;times new roman&quot;;">Xun Gao, <strong>Xiaobin Liu</strong>, Wenhan Luo. ARTIFICIAL INTELLIGENCE BASED DATA PRUCESSING METHUD, APPARATUS, DEVICE, AND MEDIUM. HK40091962</span>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-size: 18px; font-family: 宋体, SimSun;">高洵，<strong>刘晓滨</strong>, 罗文寒. 一种基于人工智能的数据处理方法、装置、设备及介质. ZL202310942069.5</span>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-size: 18px; font-family: 宋体, SimSun;">张史梁，田奇，高文，<strong>刘晓滨</strong>. 一种车辆再识别方法及系统. ZL201711395760.7</span>
+                            </p>
+                        </li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="2" style="border-color: rgb(217, 150, 148); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                    <p style="background: rgb(130, 46, 105);text-indent:5px;border: 5px solid rgb(130, 46, 105);">
+                        <span style="color: rgb(255, 255, 255); font-size: 18px; font-family: 微软雅黑, SimSun;"><strong>撰写论文、专著、教材等</strong></span>
+                    </p>
+                    <p>
+                        <strong><span style="font-size: 18px; font-family: 宋体;margin-left: 10px;">一作/通讯论文：</span></strong>
+                    </p>
+                    <ol reversed="" class=" list-paddingleft-2" style="margin-left:19px;line-height:120%;text-indent:0px;font-size: 18px;font-family: &quot;times new roman&quot;;">
+                        <li>
+                            <p>
+                                Jiasheng He, <strong>Xiaobin Liu*</strong>, Jianing Li, Jing Yuan. CV-SLAM: Coupling Vision-Enhancement for NeRF-based RGB-D SLAM. Multimedia Systems, 2026. (<strong>CCF C, SCI<span style="font-family: 宋体">四区</span></strong>)<br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Nan Hu,<strong>Xiaobin Liu*</strong>, Jing Yuan, Jianing Li, Hao Chen, Chi Su, Feng Qi. HOLA: Hierarchical Optimization with bidirectionaL Association for Camera-Incremental Object Re-Identification. ACM MM, 2026, <strong>Oral</strong>. (<strong>CCF A</strong>)<br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Xingyu Sun,<strong>Xiaobin Liu*</strong>, Jing Yuan, Jianing Li, Nan Hu, Pingyu Wang. C2LNet: Fusing Infrared and Visible Image via a Cross-Modality Complementarity Learning Network. Neural Networks, 2027. (<strong>CCF B, SCI<span style="font-family: 宋体">二区</span>Top</strong>)<br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Jianing Li,&nbsp;<strong>Xiaobin Liu*</strong>, Ruihan Xu. HER-Count: Learning Hyper-Exemplar Representation for Generalized Zero-Shot Object Counting.&nbsp;ECCV 2026. (<strong>CCF B, <span style="font-family: 宋体">计算机视觉三大顶会之一</span></strong>)<br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Boxin Zhao, Mingtao Ma, Nan Hu, <strong>Xiaobin Liu*</strong>, Wenbin Zhu, Jing Yuan, Jianing Li. Self-Paced Learning with Cycle-Consistent Labeling for Unsupervised Multi-Spectral Re-Identification. ICIVC, 2026, <strong>Oral</strong>. (<span style="font-family: 宋体">本科生一作</span>)<br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Jiguo Li, Weixuan Zhang, <strong>Xiaobin Liu*</strong>, Wenbin Zhu, Jing Yuan. Time-frequency Network for Robust Speaker Recognition. ICIVC, 2026, <strong>Oral</strong>. (<span style="font-family: 宋体">本科生二作</span>)<br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Xinyu Guo, <strong>Xiaobin Liu*</strong>, Zishao Qiao, Nan Hu, Jianing Li, Chanho Eom, Jing Yuan. Modality-Specific Expert Guiding for Visible-Infrared Person Re-Identification. Journal of Visual Communication and Image Representation, 2026. (CCF C, SCI<span style="font-family: 宋体">三区</span>, IF=3.1)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Jianing Li, <strong>Xiaobin Liu*</strong>, Chanho Eom, Shuang Yang, Jianzhong He, Hantao Yao, Jing Yuan. Generalizable Large Language Model Based Human Keypoint Localization for Emotion Recognition. Pattern Recognition, 2026. (<strong>SCI<span style="font-family: 宋体">一区</span>TOP</strong>, CCF B, IF=7.6)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Shizhuo Yu, Qiyu Li, <strong>Xiaobin Liu*</strong>, Jing Yuan. PLUE-SLAM: An RGB-D SLAM System Integrating Uncertainty Estimation of Point and Line Features. IEEE Transactions on Instrumentation &amp; Measurement, 2026. (SCI<span style="font-family: 宋体">二区</span>, IF=5.9)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <strong>Xiaobin Liu</strong>, Jianing Li, Baiwei Guo, Wenbin Zhu, Jing Yuan. BMW: Bidirectionally Memory bank reWriting for Unsupervised Person Re-Identification. NeurIPS, 2025. (<strong>CCF A</strong>, acceptance&nbsp;rate: 24.52%)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Zishao Qiao, Xinyu Guo, <strong>Xiaobin Liu</strong>*, &nbsp;Jianing Li, Chanho Eom, Jing Yuan. Visible-Infrared Person Re-Identification with Modality-Specific Expert. ICIVC 2025, <strong>Oral</strong>. (<span style="font-family: 宋体">本科生一作，获优秀展示奖</span>)<br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <strong>Xiaobin Liu*</strong>, Shiliang Zhang. Who is closer: A Computational Model for Domain Gap Evaluation. Pattern Recognition, 2022. (<strong>SCI<span style="font-family: 宋体">一区<span style="font-family: &quot;times new roman&quot;;">Top</span></span></strong>, IF=7.6)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <strong>Xiaobin Liu</strong>, Shiliang Zhang. Graph Consistency based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification. IJCAI, 2021. (<strong>CCF A</strong><strong>, acceptance rate: 13.9%</strong>)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <strong>Xiaobin Liu</strong>, Shiliang Zhang, Xiaoyu Wang, Richang Hong, Qi Tian. Group-Group Loss Based Global-Regional Feature Learning for Vehicle Re-Identification. IEEE Transactions on Image Processing, 2020. (<strong>SCI<span style="font-family: 宋体">一区<span style="font-family: &quot;times new roman&quot;;">Top</span></span></strong>, <strong>CCF A</strong>, IF=13.7)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <strong>Xiaobin Liu</strong>, Shiliang Zhang. Domain Adaptive Person Re-Identification via Coupling Optimization. ACM MM, 2020, <strong>Oral</strong>. (<strong>CCF A, Oral acceptance rate: 8.9%</strong>)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-family: &quot;times new roman&quot;;"><strong>Xiaobin Liu</strong>, Shiliang Zhang, Tiejun Huang, Qi Tian. E2BoWs: An End-to-End Bag-of-Words Model via Deep Convolutional Neural Networks for Image Retrieval. Neurocomputing, 2020.</span> (SCI<span style="font-family: 宋体">二区</span>, IF=6.5)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-family: &quot;times new roman&quot;;"><strong>Xiaobin Liu</strong>, Shiliang Zhang, Ming Yang. Self-Guided Hash Coding for Large-Scale Person Re-Identification. IEEE MIPR, 2019, <strong>Oral</strong>. (Acceptance rate: 19.3%)</span>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-family: &quot;times new roman&quot;;"><strong>Xiaobin Liu</strong>, Shiliang Zhang, Qingming Huang, Wen Gao. RAM: A Region-Aware Deep Model for Vehicle Re-Identification. IEEE ICME, 2018.</span> (CCF B, Acceptance rate: 30%)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-family: &quot;times new roman&quot;;"><strong>Xiaobin Liu</strong>, Shiliang Zhang, Tiejun Huang, Qi Tian. E2BoWs: An End-to-End Bag-of-Words Model via Deep Convolutional Neural Network. China MM, 2017.</span>
+                            </p>
+                        </li>
+                        <p>
+                            <strong><span style="font-family: 宋体, SimSun; font-size: 18px;margin: 0px 0px 0px -40px">参与论文：</span></strong>
+                        </p>
+                        <li>
+                            <p>
+                                Jiasheng He,Wenbin Zhu, <strong>Xiaobin Liu</strong>, Jing Yuan, Yuhang Wei. Bridging the Gap between Gaussian Splatting and SLAM: A Geometric Gaussian Field-based Gaussian Splatting SLAM System. The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026, <strong>Oral</strong>. (CCF B)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Giyeol Kim, Jianing Li, <strong>Xiaobin Liu</strong>, Chanho Eom. Learning Disentangled Concept Representations for Fine-Grained Text-to-Image Person Re-Identification. International Conference on Electronics, Information, and Communication (ICEIC), 2026.<br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Giyeol Kim, Jianing Li, <strong>Xiaobin Liu</strong>, Jihyong Oh, Chanho Eom. Frozen Yet Powerful: Frozen Pre-trained Models for Person Detection and Retrieval. IEIE International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC), 2025, <strong>Oral</strong>.<br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-family: &quot;times new roman&quot;;">Yishuo Chen, Boran Wang, Xinyu Guo, Wenbin Zhu, Jiasheng He, <strong>Xiaobin Liu</strong>, Jing Yuan. DEYOLO: Dual-Feature-Enhancement YOLO for Cross-Modality Object Detection. ICPR, 2024.</span> (CCF C, <span style="font-family: 宋体">本科生一作</span>)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-family: &quot;times new roman&quot;;">Jianzhong He, <strong>Xiaobin Liu</strong>, Shiliang Zhang. EAGER: Edge-Aided imaGe understanding System. ACM ICMR, 2019, Demo.</span> (CCF B)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <span style="font-family: &quot;times new roman&quot;;">Shangzhi Teng, <strong>Xiaobin Liu</strong>, Shiliang Zhang, Qingming Huang. SCAN: Spatial and Channel Attention Network for Vehicle Re-Identification. PCM, 2018.</span> (CCF C)
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Longhui Wei, <strong>Xiaobin Liu</strong>, Jianing Li, Shiliang Zhang. VP-ReID: Vehicle and Person Re-Identification System. ACM ICMR, 2018, Demo. (CCF B)
+                            </p>
+                        </li>
+                    </ol>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="2" style="border-color: rgb(217, 150, 148); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                    <p style="background: rgb(130, 46, 105);text-indent:5px;border: 5px solid rgb(130, 46, 105);">
+                        <strong><span style="color: rgb(255, 255, 255); font-size: 18px; font-family: 微软雅黑;">教学工作</span></strong>
+                    </p>
+                    <p>
+                        <span style="font-size: 18px; margin-left: 10px; font-family: 宋体, SimSun;">授课：深度学习编程实践（本科生秋季学期）</span>
+                    </p>
+                    <p>
+                        <span style="font-size: 18px; margin-left: 10px; font-family: 宋体, SimSun; font-size: 18px;">参与指导研究生：</span>
+                    </p>
+                    <ol reversed="" class=" list-paddingleft-2" style="margin-left:19px;line-height:120%;text-indent:0px;font-size: 18px;font-family: &quot;times new roman&quot;;">
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体;">
+                                孙星宇（南开大学2022级博士生，发表Neural&nbsp;Networks一作论文1篇）
+                            </p>
+                        </li>
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体;">
+                                胡&nbsp;楠（南开大学2024级博士生<span style="font-family: 宋体, SimSun; font-size: 18px;">，<span style="font-size: 18px;">发表ACM MM一作论文1篇、Neural Networks五作论文1篇、</span>JVCIR四作论文1篇</span>、ICIVC 2026三作论文1篇）
+                            </p>
+                        </li>
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体;">
+                                张菁菁（南开大学2024级硕士生）
+                            </p>
+                        </li>
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体, SimSun;">
+                                何嘉笙（南开大学2023级硕士生<span style="font-family: 宋体, SimSun; font-size: 18px;">，发表IJCAI 2026一作论文1篇、Multimedia Systems一作论文1篇</span>）
+                            </p>
+                        </li>
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体, SimSun;">
+                                郭鑫宇（南开大学2022级博士生，发表JVCIR一作论文1篇）
+                            </p>
+                        </li>
+                    </ol>
+                    <p>
+                        <span style="font-size: 18px; margin-left: 10px; font-family: 宋体, SimSun; font-size: 18px;">参与指导本科生：</span>
+                    </p>
+                    <ol reversed="" class=" list-paddingleft-2" style="margin-left:19px;line-height:120%;text-indent:0px;font-size: 18px;font-family: &quot;times new roman&quot;;">
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体;">
+                                张炜煊（南开大学2024级本科生，发表ICIVC 2026二作论文1篇，获第三届（2026）中国高校计算机大赛-AIGC创新赛华北赛区三等奖）
+                            </p>
+                        </li>
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体;">
+                                赵博新（南开大学2023级本科生，发表ICIVC 2026共一论文1篇）
+                            </p>
+                        </li>
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体;">
+                                马鸣涛（南开大学2023级本科生，发表ICIVC 2026共一论文1篇）
+                            </p>
+                        </li>
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体;">
+                                乔梓韶（南开大学2021级本科生，保送至北京大学直博，发表ICIVC 2025一作论文1篇，JVCIR三作论文1篇）
+                            </p>
+                        </li>
+                        <li>
+                            <p style="font-size: 18px; margin-left: 10px; font-family: 宋体, SimSun;">
+                                陈奕铄（南开大学2021级本科生，前往北卡莱罗纳大学攻读硕士学位，发表ICPR 2024一作论文1篇）
+                            </p>
+                        </li>
+                    </ol>
+                    <p style="margin-top: -25px;">
+                        <br/>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="2" style="border-color: rgb(217, 150, 148); border-style: solid; border-width: 1px; padding: 5px 10px;">
+                    <p style="background: rgb(130, 46, 105);text-indent:5px;border: 5px solid rgb(130, 46, 105);">
+                        <span style="font-size: 18px;"><strong><span style="color: rgb(255, 255, 255); font-family: 微软雅黑;"><strong>社会兼职</strong></span></strong></span>
+                    </p>
+                    <p style="margin-left: 10px;">
+                        <span style="font-family: times; font-size: 18px;">The 10th International Conference on Image, Vision and Computing (ICIVC 2025): <strong><span style="font-family: 微软雅黑;">专题主席</span> (Track Chair)</strong>.</span><br/>
+                    </p>
+                    <p style="margin-left: 10px;">
+                        <span style="font-family: times; font-size: 18px;"><strong><span style="font-family: 微软雅黑;">副编辑</span> (Associate Editor)</strong>: IEIE SPC.</span><br/>
+                    </p>
+                    <p style="margin-left: 10px;">
+                        <strong><span style="font-size: 18px;font-family: 微软雅黑;">审稿人：</span></strong><span style="font-family: &quot;times new roman&quot;; font-size: 18px;">IJCV, IEEE TIP, IEEE TMM,&nbsp; Information Fusion, IEEE TVT, IEEE CSVT, IEEE ITS, IEEE JBHI, IET-CVI, Neurocomputing, Artificial Intelligence Review, JVCIR, CVIU,&nbsp;计算机学报, NeurIPS, CVPR, ICCV, ECCV, ACM MM, AAAI, ICME, ICMR, ISCAS, VCIP.</span><br/>
+                    </p>
+                    <p style="margin-left: 10px;">
+                        <span style="font-size: 18px; font-family: 宋体, times;"><strong><span style="font-family: 微软雅黑;">学术组织：</span></strong>中国电子教育学会会员、中国图像图形学会会员、中国自动化学会会员、中国计算机学会会员、<span style="font-family: &quot;times new roman&quot;; font-size: 18px;">IEEE&nbsp;Member</span>。</span>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span style="text-align: center; margin:auto; width: 500px;"><p>
+                        <small>Updated at 2026.09.</small>
+                    </p></span>
+                </td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<p>
+    <br/>
+</p>
