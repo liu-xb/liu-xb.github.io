@@ -236,7 +236,7 @@
                         </li>
                         <li>
                             <p>
-                                2025.07, ICIVC 2025优秀论文展示奖（Excellent Presentation Award）。
+                                2025.07, ICIVC 2025优秀论文展示奖（Excellent Paper Presentation Award）。
                             </p>
                         </li>
                         <li>
@@ -264,12 +264,12 @@
                     <ol reversed="" class=" list-paddingleft-2" style="margin-left:28px;text-indent:0px;font-size: 18px;font-family: 宋体, times;">
                         <li>
                             <p>
-                                苑晶, 何嘉笙, <strong>刘晓滨</strong>, 陈飞, 张雪波, 李佳宁. 基于视觉嵌入式的场景重建与相机位姿跟踪方法及系统.
+                                苑晶, 何嘉笙, <strong>刘晓滨</strong>, 陈飞, 张雪波, 李佳宁. 基于视觉嵌入式的场景重建与相机位姿跟踪方法及系统. ZL202510555532.X
                             </p>
                         </li>
                         <li>
                             <p>
-                                苑晶, 魏宇航, 祝文斌, <strong>刘晓滨</strong>, 赵东兵, 陈飞, 李佳烨. 基于高阶矩约束与投影反馈的器皿检测与建模增强方法.
+                                苑晶, 魏宇航, 祝文斌, <strong>刘晓滨</strong>, 赵东兵, 陈飞, 李佳烨. 基于高阶矩约束与投影反馈的器皿检测与建模增强方法. ZL202610856167.0
                             </p>
                         </li>
                         <li>
@@ -414,6 +414,11 @@
                         </p>
                         <li>
                             <p>
+                                Yuhua Dong, Xiaotong Chen, Wenbin Zhu*, Fengchi Sun*, Jing Yuan, Haiming Gao, <strong>Xiaobin Liu</strong>. LUB-Nav: Latent Uncertainty-aware Belief Mapping for Zero-Shot Object Navigation. International Conference on Biometric Intelligence and Robotics (ICBIR), 2026.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
                                 Jiasheng He,Wenbin Zhu, <strong>Xiaobin Liu</strong>, Jing Yuan, Yuhang Wei. Bridging the Gap between Gaussian Splatting and SLAM: A Geometric Gaussian Field-based Gaussian Splatting SLAM System. The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026, <strong>Oral</strong>. (CCF B)
                             </p>
                         </li>
@@ -456,7 +461,7 @@
                         <strong><span style="color: rgb(255, 255, 255); font-size: 18px; font-family: 微软雅黑;">教学工作</span></strong>
                     </p>
                     <p>
-                        <span style="font-size: 18px; margin-left: 10px; font-family: 宋体, SimSun;">授课：深度学习编程实践（本科生秋季学期）</span>
+                        <span style="font-size: 18px; margin-left: 10px; font-family: 宋体, SimSun;">授课：深度学习原理（本科生春季学期）、深度学习编程实践（本科生秋季学期）</span>
                     </p>
                     <p>
                         <span style="font-size: 18px; margin-left: 10px; font-family: 宋体, SimSun; font-size: 18px;">参与指导研究生：</span>
@@ -529,13 +534,38 @@
                         <span style="font-size: 18px;"><strong><span style="color: rgb(255, 255, 255); font-family: 微软雅黑;"><strong>社会兼职</strong></span></strong></span>
                     </p>
                     <p style="margin-left: 10px;">
+                        <strong><span style="font-size: 18px;font-family: 微软雅黑;">受邀报告：</span></strong>
+                    </p>
+                    <ol reversed="" class=" list-paddingleft-2" style="margin-left:29px;text-indent:0px;font-size: 18px;font-family: 宋体, times;">
+                        <li>
+                            <p>
+                                HER-Count: Learning Hyper-Exemplar Representation for Generalized Zero-Shot Object Counting，第一届中国工业视觉人工智能大会，上海，2026年10月31日。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                “复杂监控场景下的目标身份重识别方法”，河北工业大学，2025年11月09日。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Graph Consistency based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification, IJCAI YES, 2023年07月06日。
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Set-Set Loss Based Global-Regional Feature Learning for Vehicle Re-Identification, 地平线机器人技术研发有限公司，2018年。
+                            </p>
+                        </li>
+                    </ol>
+                    <p style="margin-left: 10px;">
                         <span style="font-family: times; font-size: 18px;">The 10th International Conference on Image, Vision and Computing (ICIVC 2025): <strong><span style="font-family: 微软雅黑;">专题主席</span> (Track Chair)</strong>.</span><br/>
                     </p>
                     <p style="margin-left: 10px;">
                         <span style="font-family: times; font-size: 18px;"><strong><span style="font-family: 微软雅黑;">副编辑</span> (Associate Editor)</strong>: IEIE SPC.</span><br/>
                     </p>
                     <p style="margin-left: 10px;">
-                        <strong><span style="font-size: 18px;font-family: 微软雅黑;">审稿人：</span></strong><span style="font-family: &quot;times new roman&quot;; font-size: 18px;">IJCV, IEEE TIP, IEEE TMM,&nbsp; Information Fusion, IEEE TVT, IEEE CSVT, IEEE ITS, IEEE JBHI, IET-CVI, Neurocomputing, Artificial Intelligence Review, JVCIR, CVIU,&nbsp;计算机学报, NeurIPS, CVPR, ICCV, ECCV, ACM MM, AAAI, ICME, ICMR, ISCAS, VCIP.</span><br/>
+                        <strong><span style="font-size: 18px;font-family: 微软雅黑;">审稿人：</span></strong><span style="font-family: &quot;times new roman&quot;; font-size: 18px;">IJCV, IEEE TIP, IEEE TMM,&nbsp; Information Fusion, Neural Networks, IEEE TVT, IEEE CSVT, IEEE ITS, IEEE JBHI, IET-CVI, Neurocomputing, Artificial Intelligence Review, JVCIR, CVIU,&nbsp;计算机学报, NeurIPS, CVPR, ICCV, ECCV, ACM MM, AAAI, ICME, ICMR, ISCAS, VCIP.</span><br/>
                     </p>
                     <p style="margin-left: 10px;">
                         <span style="font-size: 18px; font-family: 宋体, times;"><strong><span style="font-family: 微软雅黑;">学术组织：</span></strong>中国电子教育学会会员、中国图像图形学会会员、中国自动化学会会员、中国计算机学会会员、<span style="font-family: &quot;times new roman&quot;; font-size: 18px;">IEEE&nbsp;Member</span>。</span>
@@ -545,7 +575,7 @@
             <tr>
                 <td>
                     <span style="text-align: center; margin:auto; width: 500px;"><p>
-                        <small>Updated at 2026.09.</small>
+                        <small>Updated at 2026.11.</small>
                     </p></span>
                 </td>
                 <td></td>
