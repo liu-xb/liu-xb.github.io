@@ -37,7 +37,7 @@
                         <span style="font-size: 18px; font-family: 宋体, SimSun;">电子邮件： liuxb@nankai.edu.cn</span>
                     </p>
                     <p style="text-indent: 10px;">
-                        <span style="font-size: 18px; font-family: 宋体, SimSun;">研究方向： 目标重识别、多模态内容理解</span>
+                        <span style="font-size: 18px; font-family: 宋体, SimSun;">研究方向： 具身智能、多模态环境语义感知</span>
                     </p>
                 </td>
             </tr>
@@ -47,7 +47,7 @@
                         <span style="color: rgb(255, 255, 255); font-size: 18px; font-family: 微软雅黑, SimSun;"><strong>个人简介</strong></span>
                     </p>
                     <p style="margin-left: 10px;">
-                        <span style="font-size: 18px; font-family: 宋体, SimSun; line-height:150%;text-align: justify;">2016年06月本科毕业于南开大学智能科学与技术专业并获得学士学位， 2022年01月毕业于北京大学计算机应用技术专业并获得博士学位。2022年02月作为“技术大咖”加入腾讯，担任高级研究员，从事多模态内容处理与理解相关研究和算法框架搭建工作。2024年08月离开腾讯，加入南开大学人工智能学院先进感知与控制实验室，从事具身智能、多模态内容理解等相关研究。至今在TIP、PR、NeurIPS、ECCV、IJCAI、ACM MM等国际重要期刊和会议发表论文20余篇，授权发明专利8项，主持国家自然科学基金青年基金1项、国家资助博士后研究人员计划1项、中国博士后科学基金面上项目1项、中国博士后科学基金会与天津市联合资助（特别资助）1项，参与多项国家重点研发计划、国家基金委面上项目等国家级项目，获得2024年度天津市技术发明二等奖、第六届交通运输工程全国优秀博士学位论文奖、ICIVC 2025优秀论文展示奖、第五届天津市“海河英才”<span style="color: rgb(51, 51, 51); font-family: 宋体, times; font-size: 18px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);">创新创业大赛博士后揭榜领题赛三等奖</span>。担任ICIVC 2025 Track Chair，并作为TIP、IJCV、CVPR、ICCV等多个国际权威期刊和顶级会议审稿人。</span>
+                        <span style="font-size: 18px; font-family: 宋体, SimSun; line-height:150%;text-align: justify;">2016年06月本科毕业于南开大学智能科学与技术专业并获得学士学位， 2022年01月毕业于北京大学计算机应用技术专业并获得博士学位。2022年02月作为“技术大咖”加入腾讯，担任高级研究员，从事多模态内容处理与理解相关研究和算法框架搭建工作。2024年08月离开腾讯，加入南开大学人工智能学院先进感知与控制实验室，从事具身智能、多模态环境语义感知等相关研究。至今在TIP、PR、NeurIPS、ECCV、IJCAI、ACM MM等国际重要期刊和会议发表论文20余篇，授权发明专利8项，主持国家自然科学基金青年基金1项、国家资助博士后研究人员计划1项、中国博士后科学基金面上项目1项、中国博士后科学基金会与天津市联合资助（特别资助）1项、中国船舶先进技术类项目1项，参与多项国家重点研发计划、国家基金委面上项目等国家级项目，获得2024年度天津市技术发明二等奖、第六届交通运输工程全国优秀博士学位论文奖、ICIVC 2025优秀论文展示奖、第五届天津市“海河英才”<span style="color: rgb(51, 51, 51); font-family: 宋体, times; font-size: 18px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);">创新创业大赛博士后揭榜领题赛三等奖</span>。担任ICIVC 2025 Track Chair，并作为TIP、IJCV、CVPR、ICCV等多个国际权威期刊和顶级会议审稿人。</span>
                     </p>
                     <p style="margin-left: 10px;">
                         <span style="font-size: 18px; font-family: 宋体, SimSun;line-height:120%;"><span style="font-size: 18px; font-family: 宋体, SimSun;"><br/></span></span>
@@ -178,6 +178,11 @@
                         <span style="font-size: 18px; font-family: 宋体, SimSun;"><strong><span style="font-family: 宋体, SimSun; font-size: 18px;margin-left: 10px;">主持项目：</span></strong></span>
                     </p>
                     <ol reversed="" class=" list-paddingleft-2" style="margin-left:29px;text-indent:0px;font-size: 18px;font-family: 宋体, times;">
+                        <li>
+                            <p>
+                                中国船舶集团有限公司第七〇七研究所，异常特征目标特征识别算法，2026.11-2027.01，20万元。
+                            </p>
+                        </li>
                         <li>
                             <p>
                                 中国博士后科学基金会与天津市联合资助（特别资助），复杂场景下的无监督增量式行人重识别方法研究，2025.08-2027.07，18万元。
@@ -326,7 +331,7 @@
                         </li>
                         <li>
                             <p>
-                                Xingyu Sun,<strong>Xiaobin Liu*</strong>, Jing Yuan, Jianing Li, Nan Hu, Pingyu Wang. C2LNet: Fusing Infrared and Visible Image via a Cross-Modality Complementarity Learning Network. Neural Networks, 2027. (<strong>CCF B, SCI<span style="font-family: 宋体">二区</span>Top</strong>)<br/>
+                                Xingyu Sun,<strong>Xiaobin Liu*</strong>, Jing Yuan, Jianing Li, Nan Hu, Pingyu Wang. C2LNet: Fusing Infrared and Visible Image via a Cross-Modality Complementarity Learning Network. Neural Networks, Volume 205, 109365, 2027. (<strong>CCF B, SCI<span style="font-family: 宋体">二区</span>Top</strong>)<br/>
                             </p>
                         </li>
                         <li>
@@ -414,12 +419,17 @@
                         </p>
                         <li>
                             <p>
-                                Yuhua Dong, Xiaotong Chen, Wenbin Zhu*, Fengchi Sun*, Jing Yuan, Haiming Gao, <strong>Xiaobin Liu</strong>. LUB-Nav: Latent Uncertainty-aware Belief Mapping for Zero-Shot Object Navigation. International Conference on Biometric Intelligence and Robotics (ICBIR), 2026.
+                                Jingjing Zhang, Jing Yuan*, <strong>Xiaobin Liu</strong>, Yi Jiang, Wenbin Zhu. MILAN-VO: Map-in-the-Loop Anchor Mining for Visual Odometry. IEEE Robotics and Automation Letters, 2026.
                             </p>
                         </li>
                         <li>
                             <p>
-                                Jiasheng He,Wenbin Zhu, <strong>Xiaobin Liu</strong>, Jing Yuan, Yuhang Wei. Bridging the Gap between Gaussian Splatting and SLAM: A Geometric Gaussian Field-based Gaussian Splatting SLAM System. The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026, <strong>Oral</strong>. (CCF B)
+                                Yuhua Dong, Xiaotong Chen, Wenbin Zhu*, Fengchi Sun*, Jing Yuan, Haiming Gao, <strong>Xiaobin Liu</strong>. LUB-Nav: Latent Uncertainty-aware Belief Mapping for Zero-Shot Object Navigation. International Conference on Biomimetic Intelligence and Robotics (ICBIR), 2026.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Jiasheng He,Wenbin Zhu, <strong>Xiaobin Liu</strong>, Jing Yuan, Yuhang Wei. Bridging the Gap between Gaussian Splatting and SLAM: A Geometric Gaussian Field-based Gaussian Splatting SLAM System. The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026, <strong>Oral</strong>. (CCF A)
                             </p>
                         </li>
                         <li>
@@ -479,7 +489,7 @@
                         </li>
                         <li>
                             <p style="font-size: 18px; margin-left: 10px; font-family: 宋体;">
-                                张菁菁（南开大学2024级硕士生）
+                                张菁菁（南开大学2024级硕士生，发表IEEE RA-L一作论文1篇）
                             </p>
                         </li>
                         <li>
@@ -575,7 +585,7 @@
             <tr>
                 <td>
                     <span style="text-align: center; margin:auto; width: 500px;"><p>
-                        <small>Updated at 2026.11.</small>
+                        <small>Updated at 2026.11.08.</small>
                     </p></span>
                 </td>
                 <td></td>
